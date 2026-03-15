@@ -1,4 +1,3 @@
-// Number of rows in the pattern 
 const ROWS = 5;
 
 // Loop through each row
